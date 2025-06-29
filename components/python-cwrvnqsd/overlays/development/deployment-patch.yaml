@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: tssc-quay-quay-tssc-quay.apps.cluster-hzd4v.hzd4v.sandbox1085.opentlc.com/tssc/python-cwrvnqsd:github-7bd8544593c83baecbbd2458bf69722727a04668
+        - image: tssc-quay-quay-tssc-quay.apps.cluster-hzd4v.hzd4v.sandbox1085.opentlc.com/tssc/python-cwrvnqsd:github-c055e66d8963f7ce54ca11634d5738b691321ec9
           name: container-image
